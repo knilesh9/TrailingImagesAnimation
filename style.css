@@ -22,3 +22,17 @@ html, body {
      * since, the top left co-ordinate is being used to align and
      * then move it back -50%, -50%    */
 }
+
+.imageDiv {
+    position: absolute;
+    width: 200px;
+    height: 270px;
+    overflow: hidden;
+}
+
+.imageDiv img {
+    transform: translateY(90%);
+    width: 90%;
+    height: 90%;
+    object-fit: cover;
+}
