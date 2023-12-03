@@ -5,6 +5,8 @@ Just module number 3, another practice set for JS and GSAP, DOM. We have an anim
 <img src="https://github.com/knilesh9/TrailingImagesAnimation/blob/main/media/gifs/demo.gif" alt="Demo" width="auto" height="auto">
 
 
+[LIVE Demo!!](https://trailing-images-animation.vercel.app/)
+
 ## What's happening under the hood.
 
 <img src="https://github.com/knilesh9/TrailingImagesAnimation/blob/main/media/gifs/devtools.gif" alt="Demo" width="auto" height="auto">
