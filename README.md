@@ -13,5 +13,6 @@ Just module number 3, another practice set for JS and GSAP, DOM. We have an anim
 
 ## Remember ‼
 ⚠⚠ if you don't remove the div's, here that is being done in the setTimeout().
-Then the cat's might stop to appear since the div's won't disappear and continue to occupy the space.
+Then the cat's might stop to appear since the div's won't be removed and continue to occupy the space.
 Then you won't have the contact with the rectangle div and thus rendering the logic useless.
+Meaning you need your cursor to make contact with rectangles div in order to make these images pop-up.
