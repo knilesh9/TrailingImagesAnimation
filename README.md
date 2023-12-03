@@ -11,6 +11,7 @@ Just module number 3, another practice set for JS and GSAP, DOM. We have an anim
 
 * Here, we are creating and removing classes, with the help of DOM, and JS.
 
-⚠⚠ Remember if you don't remove the div's, here that is being done in the setTimeout().
+## Remember ‼
+⚠⚠ if you don't remove the div's, here that is being done in the setTimeout().
 Then the cat's might stop to appear since the div's won't disappear and continue to occupy the space.
 Then you won't have the contact with the rectangle div and thus rendering the logic useless.
